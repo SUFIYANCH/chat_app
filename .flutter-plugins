@@ -1,0 +1,17 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/home/sufiyan/development/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-3.4.0/
+cloud_firestore_web=/home/sufiyan/development/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-2.8.0/
+firebase_auth=/home/sufiyan/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.5.0/
+firebase_auth_web=/home/sufiyan/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-4.1.0/
+firebase_core=/home/sufiyan/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.20.0/
+firebase_core_web=/home/sufiyan/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.7.1/
+flutter_native_splash=/home/sufiyan/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_splash-2.2.16/
+path_provider_linux=/home/sufiyan/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.7/
+path_provider_windows=/home/sufiyan/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.1.0/
+shared_preferences=/home/sufiyan/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.15/
+shared_preferences_android=/home/sufiyan/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.12/
+shared_preferences_ios=/home/sufiyan/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_ios-2.1.1/
+shared_preferences_linux=/home/sufiyan/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.1.1/
+shared_preferences_macos=/home/sufiyan/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.4/
+shared_preferences_web=/home/sufiyan/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.4/
+shared_preferences_windows=/home/sufiyan/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.1.1/

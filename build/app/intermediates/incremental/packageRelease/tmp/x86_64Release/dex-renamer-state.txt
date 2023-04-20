@@ -1,0 +1,4 @@
+#Wed Mar 29 15:58:08 IST 2023
+base.0=/home/sufiyan/Desktop/level X project/flutter/chat_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
